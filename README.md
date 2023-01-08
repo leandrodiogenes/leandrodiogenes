@@ -6,7 +6,7 @@
 <div>
 - Pode me chamar de Leandro ✌ <br>
 - Um eterno aprendiz<br>
-- Mais de 15 anos de experiência com PHP <br>
+- Mais de 18 anos de experiência com PHP <br>
 - 5 anos de experiência com Laravel <br>
 - Adoro programar! Meu programa pra final de semana? Programar... <br>
 - Experiente com microserviços laravel <br>
